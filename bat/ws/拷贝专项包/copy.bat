@@ -1,4 +1,3 @@
-md C:\Users\ye\Desktop\鹭燕专项包
 copy /y  \\10.8.11.157\erpzstomcat\webapps\npserver\WEB-INF\classes\专项开发\11056.zip   C:\Users\ye\Desktop\鹭燕专项包
 copy /y  \\10.8.11.157\erpzstomcat\webapps\npserver\WEB-INF\classes\专项开发\1501.zip   C:\Users\ye\Desktop\鹭燕专项包
 copy /y  \\10.8.11.157\erpzstomcat\webapps\npserver\WEB-INF\classes\专项开发\1910.zip   C:\Users\ye\Desktop\鹭燕专项包
@@ -1109,5 +1108,3 @@ copy /y  \\10.8.11.157\erpzstomcat\webapps\npserver\WEB-INF\classes\专项开发\741
 copy /y  \\10.8.11.157\erpzstomcat\webapps\npserver\WEB-INF\classes\专项开发\7426.zip   C:\Users\ye\Desktop\鹭燕专项包
 copy /y  \\10.8.11.157\erpzstomcat\webapps\npserver\WEB-INF\classes\专项开发\7427.zip   C:\Users\ye\Desktop\鹭燕专项包
 copy /y  \\10.8.11.157\erpzstomcat\webapps\npserver\WEB-INF\classes\专项开发\7813.zip   C:\Users\ye\Desktop\鹭燕专项包
-"D:\Program Files\WinRAR\rar.exe"  a -ep  "C:\Users\ye\Desktop\每周五传给英克专项包\鹭燕专项包"%date:~0,4%%date:~5,2%%date:~8,2%%time:~0,2%%time:~3,2%%time:~6,2% "C:\Users\ye\Desktop\鹭燕专项包\"
-rd /s/q   C:\Users\ye\Desktop\鹭燕专项包
